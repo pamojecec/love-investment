@@ -1,5 +1,5 @@
 // Calculate and show the total investment
-const herTotal = 2647;
+const herTotal = 2847;
 const hisTotal = 2767;
 const total = herTotal + hisTotal;
 
